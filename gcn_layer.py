@@ -1,4 +1,5 @@
 # Written by Charles Liang
+# Commented and modified by Dongjin Lee
 
 import torch
 import torch.nn.functional as F
